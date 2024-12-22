@@ -5,6 +5,7 @@ import {
   tesla,
   concentrix,
   q3edge,
+  agami,
 } from "../assets/images";
 import {
   car,
@@ -94,8 +95,22 @@ export const skills = [
 
 export const experiences = [
   {
+    title: "Software Specialist (React)",
+    company_name: "Agami Technologies Pvt. Ltd",
+    icon: agami,
+    iconBg: "#accbe1",
+    date: "November 2024 - Present",
+    points: [
+      "Developed and maintained user-friendly, responsive web applications for diverse clients, ensuring cross-browser compatibility and optimized performance.",
+      "Implemented interactive UI components using React.js and Next.js, reducing development time by 20% through reusable code and modular practices.",
+      "Leveraged TypeScript to improve code quality and maintainability, minimizing bugs by 30%.",
+      "Collaborated with clients to translate business requirements into technical specifications, ensuring project milestones are met on schedule.",
+      "Provided continuous support and updates, ensuring sustained functionality and adherence to best practices.",
+    ],
+  },
+  {
     title: "React.js Developer",
-    company_name: "Concentrix Catalyst",
+    company_name: "Concentrix Catalyst Ltd",
     icon: concentrix,
     iconBg: "#accbe1",
     date: "June 2022 - September 2023",
@@ -103,7 +118,7 @@ export const experiences = [
       "Built a comprehensive website which enabled secure user registration, login, and profile management to enhance customized experience.",
       "Integrated a robust shopping cart and checkout system, which increased conversion rates by 15%.",
       "Collaborated cross-functionally to deliver on-time project milestones and ensured 99% uptime through efficient debugging and optimization.",
-      "Enhanced user engagement with a rating and review system, receiving over 500 user-generated reviews in the first three months.",
+      "Enhanced user engagement with a rating and review system, receiving over 200 user-generated reviews in the first three months.",
       "Implemented secure payment methods, streamlining transaction processes and reducing cart abandonment by 20%.",
       "Debugged and resolved application issues to improve user experience.",
     ],
