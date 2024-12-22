@@ -22,9 +22,9 @@ const About = () => {
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          A passionate Frontend React Developer in London. I’m eager to apply my
-          skills to the company's vibrant tech ecosystem and contribute to teams
-          that prioritize innovation, growth, and continuous learning.
+          A passionate Frontend React Developer. I’m eager to apply my skills to
+          the company's vibrant tech ecosystem and contribute to teams that
+          prioritize innovation, growth, and continuous learning.
         </p>
       </div>
 

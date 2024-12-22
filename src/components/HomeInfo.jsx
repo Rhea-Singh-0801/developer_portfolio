@@ -9,7 +9,7 @@ const HomeInfo = ({ currentStage }) => {
         Hi, I'm
         <span className="font-semibold mx-2 text-white">Rhea</span>
         👋
-        <br />A Frontend React Developer in London(UK).
+        <br />A passionate Frontend React Developer .
         <br />
         <br />
         Spin the plane around the island to learn more about me 😊.
